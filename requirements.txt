@@ -1,3 +1,4 @@
+# Updated: 2026-01-19 - Forcing fresh deployment
 streamlit==1.29.0
 pandas==2.1.4
 numpy==1.26.2
